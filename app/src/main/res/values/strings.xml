@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">GridView</string>
+
+    <string-array name="image_names">
+        <item>Zainab</item>
+        <item>Stella</item>
+        <item>Azeez</item>
+        <item>Tinu</item>
+        <item>Michael</item>
+        <item>Sam</item>
+    </string-array>
+
+</resources>
